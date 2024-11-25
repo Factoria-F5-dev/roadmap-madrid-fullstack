@@ -1,6 +1,6 @@
 # Dashboard de estudiantes y mapa de ruta del bootcamp Desarrollo web fullstack
 
-<img src="./img/roadmap_fullstack.png">
+<img src="./img/roadmap_fullstack.PNG">
 
 
 

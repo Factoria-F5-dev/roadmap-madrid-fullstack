@@ -11,7 +11,7 @@ const bootcampData = {
         },
         {
             type: "Course",
-            name: "Desarrollo web principiantes : Microsoft",
+            name: "Desarrollo web: Microsoft",
             start: 1,
             end: 1,
         },
@@ -23,7 +23,7 @@ const bootcampData = {
         },
         {
             type: "Course",
-            name: "html y css: Insignia Digital Google",
+            name: "HTML y CSS: Google",
             start: 2,
             end: 2,  
         },
@@ -35,7 +35,7 @@ const bootcampData = {
         },
         {
             type: "Course",
-            name: "Certificado: Github",
+            name: "Git y Github",
             start: 3,
             end: 3,  
         },
@@ -47,7 +47,7 @@ const bootcampData = {
         },
         {
             type: "Course",
-            name: "JS: cisco y JsInstitute",
+            name: "JavaScript y TypeScript: CISCO y Microsoft",
             start: 4,
             end: 7,
         },
@@ -77,19 +77,19 @@ const bootcampData = {
         },
         {
             type: "Course",
-            name: " node:Linuxfundation",
+            name: " node: Linuxfundation",
             start:16,
             end: 16,
         },
         {
             type: "Course",
-            name: " Express",
+            name: "Express: IBM",
             start:17,
             end: 19,
         },
         {
             type: "Proyecto",
-            name: "proyecto pedagógico",
+            name: "Proyecto pedagógico",
             start: 21,
             end: 24,
         },
